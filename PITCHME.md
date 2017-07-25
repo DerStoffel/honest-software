@@ -58,4 +58,36 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * communication
 * behaviour
 
+---
+
+####information reception
+
++++
+
+####description
+
+* reception of information has a start and end point.
+* the end is defined by an __agreement__ on one common truth by all stakeholders.
+* __implicit and explicit__ contents are equally important.
+* __interpretation__ is part of the reception of information.
+* interpretation will be agreed on by all stakeholders to __not falsify its spirit__.
++++
+
+####practices
+
+* __validation__ of information and its interpretation.
+* insist on __completeness__.
+* define __together__ what is meant by a piece of information and what is not.
+* __do not keep information__. Hidden agendas do not serve transparency.
++++
+
+####pitfalls
+
+* during times of pressure it is easy to let yourself being misled to __knowingly misunderstand information__.
+* misunderstand information due to means of __comfort__.
+* __Ambiguities__ are likely to be adjusted to ones pleasure.
+* Fear of misunderstanding leads to __withholding__.
+* Hidden agendas and politics __deny transparency__.
+
+
 
