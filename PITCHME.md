@@ -9,16 +9,16 @@
 
 ####traditional ways
 
-process orientation
-clear tasking
-step by step
-compartmentalization
-foreclosure
+* process orientation
+* clear tasking
+* step by step
+* compartmentalization
+* foreclosure
 
 +++
 
 ####traditional results
 
-not met requirements
-insufficient resources
-not enough time
+* not met requirements
+* insufficient resources
+* not enough time
