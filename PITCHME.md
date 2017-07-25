@@ -133,7 +133,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 ####practices
 
 * we do not know everything and do not hesitate __asking__ or __educate__ ourselfs.	
-* we do not __commit__ feeling not being informed well enough.	
+* we do not __commit__ while feeling not being informed well enough.	
 * we use tools to __gain knowledge__ about what we do.	
 * we know when we are done, because we did define it.	
 * we know that fiddling with processes has __impacts__.	
@@ -149,7 +149,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 * knowledge should be __documented__.	
 * it is easy to fall behind on __knowledge and education__.	
 * we can never estimate all impacts of our actions.	
-* there is no __entitlement on completeness__. it is easy to be satisfied with too less.	
+* there is no __entitlement on completeness__. it is easy to be satisfied with too little.	
 
 ---
 
