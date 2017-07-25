@@ -1,5 +1,5 @@
-#### Honest Software
-#### where did we go wrong
+### Honest Software
+where did we go wrong
 
 ---
 
