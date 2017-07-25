@@ -185,6 +185,75 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * chosing the wrong medium or recipients.	
 * it is not enough to communicate for its own purpose. those who communicate are responsible for __validation__ of contents and the choice of direct recipients.	
 
+---
+
+####behaviour
+
++++
+
+####description
+
+* behaviour describes the way we __act__ and __react__.	
+* by acting we influence our __environment__ directly.	
+
++++	
+	
+####practices
+
+* your mouth is writing checks your ass can't cash.	
+* we are not prone to error and aim to __improve constantly__.	
+* we do not __pretend__ half arsed jobs to be complete.	
+* we estimate realistic scopes.	
+* partners are treated the same kind way customers are.	
+* our shipments are products __not prototypes__.	
+* we use __industry standards__ and __best practices__.	
+
++++	
+	
+####pitfalls
+
+* reinventing the wheel.	
+* forgetting about our partners and vendors.	
+* a culture of blame impedes honesty when it comes to errors and mistakes.	
+* fear of pressure leads to false estimates.	
+
+---
+
+####the agile manifesto
+
++++
+
+__individuals and interactions__ _over processes and tools_
+
+_and we have mandatory processes and tools to control how those individuals (we prefer the term ‘resources’) interact_
+
++++	
+
+__working software__ _over comprehensive documentation_
+
+_as long as that software is comprehensively documented_
+
++++	
+
+__customer collaboration__ _over contract negotiation_
+
+_within the boundaries of strict contracts, of course, and subject to rigorous change control_
+
++++
+
+__responding to change__ _over following a plan_
+
+_provided a detailed plan is in place to respond to the change, and it is followed precisely_
+
++++	
+
+* __individuals and interactions__ _over processes and tools_
+* __working software__ _over comprehensive documentation_
+* __customer collaboration__ _over contract negotiation_
+* __responding to change__ _over following a plan_
+
+That is, while the items on the left sound nice in theory, we’re an enterprise company, and there’s no way we’re letting go of the items on the right.
+
 
 
 
