@@ -246,5 +246,3 @@ _provided a detailed plan is in place to respond to the change, and it is follow
 * __working software__ _over comprehensive documentation_
 * __customer collaboration__ _over contract negotiation_
 * __responding to change__ _over following a plan_
-
-That is, while the items on the left sound nice in theory, we’re an enterprise company, and there’s no way we’re letting go of the items on the right.
