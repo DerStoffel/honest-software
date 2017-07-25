@@ -89,5 +89,70 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * Fear of misunderstanding leads to __withholding__.
 * Hidden agendas and politics __deny transparency__.
 
+---
+
+####identity
+
++++
+
+####description
+
+* identity is the foundation of any project.
+* objective aspects foster identity as much as __emotional__ ones.
+* identity __cannot be forced__ but facilitated.
+* is one of the most important requirements for __motivation and performance__.
+
++++
+
+####practices
+
+* we know who we are. there is exactly one version of our identity and __no necissity to diversify or disguise__.
+* the __feelgood__ factor is a valid metric. we will communicate once we do not want to be part of this identity.
+* we work with __people and inviduals__, not with ressources. people provide ressources but are recognized as individuals.
+
++++
+	
+####pitfalls
+
+* it is easy to __enforce behavioural patterns__. this will not lead to identity but dissafection and abandonment.
+* identity is the sum of all participants. hereby it is easy to __damage the identity__ of single participants towards a project by negative influences.
+
+---
+
+####awareness & knowledge
+
++++
+
+####description
+
+* knowledge about our daily work and the existence of roles and business processes are mandatory for working processes.	
+* knowledge about our business domains and processes needs to be educated continuously.	
+* we are aware of our actions and their impacts.	
+
++++
+						
+####practices
+
+* we do not know everything and do not hesitate <b>asking</b> or <b>educate</b> ourselfs.	
+* we do not <b>commit</b> feeling not being informed well enough.	
+* we use tools to <b>gain knowledge</b> about what we do.	
+* we know when we are done, because we did define it.	
+* we know that fiddling with processes has <b>impacts</b>.	
+* we gain, document, share and evaluate knowledge.	
+
++++
+						
+####pitfalls
+
+* the moment something is not clear, there will be <b>mistakes</b>.	
+* knowledge hidden behind <b>obstacles</b> will not be used.	
+* don't kill the messenger.	
+* knowledge should be <b>documented</b>.	
+* it is easy to fall behind on <b>knowledge and education</b>.	
+* we can never estimate all impacts of our actions.	
+* there is no <b>entitlement on completeness</b>. it is easy to be satisfied with too less.	
+
+
+
 
 
