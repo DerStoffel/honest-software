@@ -256,8 +256,6 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####environment
 
-| method        | interpretation |
-| ------------- | -------------- |
 | __agile__     | turbulent, high change & project focused |
 | __plan-driven__     | stable, low-change & organization focused |
 
