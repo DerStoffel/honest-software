@@ -133,25 +133,57 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 						
 ####practices
 
-* we do not know everything and do not hesitate <b>asking</b> or <b>educate</b> ourselfs.	
-* we do not <b>commit</b> feeling not being informed well enough.	
-* we use tools to <b>gain knowledge</b> about what we do.	
+* we do not know everything and do not hesitate __asking__ or __educate__ ourselfs.	
+* we do not __commit__ feeling not being informed well enough.	
+* we use tools to __gain knowledge__ about what we do.	
 * we know when we are done, because we did define it.	
-* we know that fiddling with processes has <b>impacts</b>.	
+* we know that fiddling with processes has __impacts__.	
 * we gain, document, share and evaluate knowledge.	
 
 +++
 						
 ####pitfalls
 
-* the moment something is not clear, there will be <b>mistakes</b>.	
-* knowledge hidden behind <b>obstacles</b> will not be used.	
+* the moment something is not clear, there will be __mistakes__.	
+* knowledge hidden behind __obstacles__ will not be used.	
 * don't kill the messenger.	
-* knowledge should be <b>documented</b>.	
-* it is easy to fall behind on <b>knowledge and education</b>.	
+* knowledge should be __documented__.	
+* it is easy to fall behind on __knowledge and education__.	
 * we can never estimate all impacts of our actions.	
-* there is no <b>entitlement on completeness</b>. it is easy to be satisfied with too less.	
+* there is no __entitlement on completeness__. it is easy to be satisfied with too less.	
 
+---
+
+####communication
+
++++
+
+####description
+
+* communication happens over __formal__ and __informal__ channels.	
+* a reasonable way of communication assumes that __receivers__ and __channels__ are chosen correctly.	
+* communication can be __synchronous__ and __asynchronous__ and has to deal with dependencies on time and content.	
+* it is a keyfactor for successful __teamwork__.	
+
++++
+
+####practices
+
+* standups help to informally offer and get help.	
+* status meetings are means of reporting.	
+* the less intermediates the less blurry the information gets.	
+* since we do not lie, we can rely on what one says.	
+* we do not delay. communication can be categorized, there is importance.	
+
++++
+
+####pitfalls
+
+* __chinese whispers__ can have massive impacts.	
+* "that is known anyway" is an irrational assumption.	
+* there are no __stupid questions__.	
+* chosing the wrong medium or recipients.	
+* it is not enough to communicate for its own purpose. those who communicate are responsible for __validation__ of contents and the choice of direct recipients.	
 
 
 
