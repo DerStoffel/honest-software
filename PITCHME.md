@@ -231,3 +231,7 @@ _and we have mandatory processes and tools to control how those individuals (we 
 __working software__ _over comprehensive documentation_
 _as long as that software is comprehensively documented_
 
++++
+
+__customer collaboration__ _over contract negotiation_
+_within the boundaries of strict contracts, of course, and subject to rigorous change control_
