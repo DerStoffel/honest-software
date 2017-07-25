@@ -37,3 +37,25 @@
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
+---
+
+####honest software
+
++++
+A guide for honest ways in handling IT projects.
+
+This guide serves all members of a project. The way from feature wish to accepted and shipped product increments is full of pitfalls.
+						
+We aim on identifying and describing falsyfying factors as well as calling them to awareness.
+
+We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ and an __open set of values__.
+
++++
+
+* information reception
+* identity
+* awareness & knowledge
+* communication
+* behaviour
+
+
