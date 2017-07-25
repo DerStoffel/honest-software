@@ -8,6 +8,7 @@
 +++
 
 ####traditional ways
+
 process orientation
 clear tasking
 step by step
@@ -17,8 +18,7 @@ foreclosure
 +++
 
 ####traditional results
+
 not met requirements
 insufficient resources
 not enough time
-
----
