@@ -217,7 +217,38 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * a culture of blame impedes honesty when it comes to errors and mistakes.	
 * fear of pressure leads to false estimates.	
 
+---
 
+####the agile manifesto
+
++++
+
+* __individuals and interactions__ _over processes and tools_
+* _and we have mandatory processes and tools to control how those individuals (we prefer the term resources) interact_
+
++++
+
+* __working software__ _over comprehensive documentation_
+* _as long as that software is comprehensively documented_
+
++++
+
+* __customer collaboration__ _over contract negotiation_
+* _within the boundaries of strict contracts, of course, and subject to rigorous change control_
+
++++
+
+* __responding to change__ _over following a plan_
+* _provided a detailed plan is in place to respond to the change, and it is followed precisely_
+
++++
+
+* __individuals and interactions__ _over processes and tools_
+* __working software__ _over comprehensive documentation_
+* __customer collaboration__ _over contract negotiation_
+* __responding to change__ _over following a plan_
+
+That is, while the items on the left sound nice in theory, we’re an enterprise company, and there’s no way we’re letting go of the items on the right.
 
 
 
