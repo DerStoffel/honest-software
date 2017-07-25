@@ -208,7 +208,7 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * our shipments are products __not prototypes__.	
 * we use __industry standards__ and __best practices__.	
 
-+++	
++++
 	
 ####pitfalls
 
@@ -227,13 +227,13 @@ __individuals and interactions__ _over processes and tools_
 
 _and we have mandatory processes and tools to control how those individuals (we prefer the term resources) interact_
 
-+++	
++++
 
 __working software__ _over comprehensive documentation_
 
 _as long as that software is comprehensively documented_
 
-+++	
++++
 
 __customer collaboration__ _over contract negotiation_
 
@@ -245,7 +245,7 @@ __responding to change__ _over following a plan_
 
 _provided a detailed plan is in place to respond to the change, and it is followed precisely_
 
-+++	
++++
 
 * __individuals and interactions__ _over processes and tools_
 * __working software__ _over comprehensive documentation_
