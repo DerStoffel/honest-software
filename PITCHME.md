@@ -235,3 +235,8 @@ _as long as that software is comprehensively documented_
 
 __customer collaboration__ _over contract negotiation_
 _within the boundaries of strict contracts, of course, and subject to rigorous change control_
++++
+
+__responding to change__ _over following a plan_
+_provided a detailed plan is in place to respond to the change, and it is followed precisely_
+
