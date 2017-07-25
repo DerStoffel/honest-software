@@ -203,7 +203,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 * we are not prone to error and aim to __improve constantly__.	
 * we do not __pretend__ half arsed jobs to be complete.	
 * we estimate realistic scopes.	
-* partners are treated the same kind way customers are.	
+* partners are treated as kindly as customers.	
 * our shipments are products __not prototypes__.	
 * we use __industry standards__ and __best practices__.	
 
