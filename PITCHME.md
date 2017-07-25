@@ -1,82 +1,315 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
-
-#### Get the word out
-<br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
-
----
-
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
-
----
-
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
-
----
-
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
-
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
-
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
-
----
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
-
----
-
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
-
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>Honest Software</h1>
+					<p>where did we go wrong?</p>
+				</section>
+				<section data-background="#FF5722">
+					<h2>the road so far</h2>
+					<section>
+						<h3 class="fragment fade-up">traditional ways</h3>
+						<ul>
+							<li class="fragment fade-up">process orientation</li>
+							<li class="fragment fade-up">clear tasking</li>
+							<li class="fragment fade-up">step by step</li>
+							<li class="fragment fade-up">compartmentalization</li>
+							<li class="fragment fade-up">foreclosure</li>
+						</ul>
+					</section>
+					<section>
+						<h3 class="fragment fade-up">traditional results</h3>
+						<ul>
+							<li class="fragment fade-up">not met requirements</li>
+							<li class="fragment fade-up">insufficient resources</li>
+							<li class="fragment fade-up">not enough time</li>
+						</ul>
+					</section>
+				</section>
+				<section data-background="#8BC34A">
+					<h2>the agile manifesto</h2>
+					<section>
+						<ul>
+							<li class="fragment fade-up"><b>individuals and interactions</b> <i>over processes and tools</i></li>
+							<li class="fragment fade-up"><b>working software</b> <i>over comprehensive documentation</i></li>
+							<li class="fragment fade-up"><b>customer collaboration</b> <i>over contract negotiation</i></li>
+							<li class="fragment fade-up"><b>responding to change</b> <i>over following a plan</i></li>
+						</ul>
+						<p class="fragment fade-up">That is, while there is value in the items on the right, we value the items on the left more.</p>
+					</section>
+				</section>
+				<section data-background="#00BCD4">
+					<h2>honest software</h2>
+					<section>
+						<p>A guide for honest ways in handling IT projects.</p>
+						<p>This guide serves all members of a project. The way from feature wish to accepted and shipped product increments is full of pitfalls.</p>
+						<p>We aim on identifying and describing falsyfying factors as well as calling them to awareness.</p>
+						<p>We feel that <b>honesty</b> means <b>transparency</b>, <b>responsibiility</b>, <b>truth</b> and an <b>open set of values</b>.</p>		
+					</section>
+					<section>
+						<ul>
+							<li>information reception</li>
+							<li class="fragment fade-up">identity</li>
+							<li class="fragment fade-up">awareness & knowledge</li>
+							<li class="fragment fade-up">communication</li>
+							<li class="fragment fade-up">behaviour</li>
+						</ul>
+					</section>
+				</section>
+				
+						
+				<section data-background="#FFEB3B">
+					<h2>information reception</h2>
+					<section>
+						<h3>description</h3>
+						<p class="fragment fade-up">reception of information has a start and end point.</p>
+						<p class="fragment fade-up">the end is defined by an <b>agreement</b> on one common truth by all stakeholders.</p>
+						<p class="fragment fade-up"><b>implicit and explicit</b> contents are equally important.</p>
+						<p class="fragment fade-up"><b>interpretation</b> is part of the reception of information.</p>
+						<p class="fragment fade-up">interpretation will be agreed on by all stakeholders to <b>not falsify its spirit</b>.</p>
+					</section>
+					<section>
+						<h3>practices</h3>
+						<p class="fragment fade-up"><b>validation</b> of information and its interpretation.</p>
+						<p class="fragment fade-up">insist on <b>completeness</b>.</p>
+						<p class="fragment fade-up">define <b>together</b> what is meant by a piece of information and what is not.</p>
+						<p class="fragment fade-up"><b>do not keep information</b>. Hidden agendas do not serve transparency.</p>
+					</section>
+					<section>
+						<h3>pitfalls</h3>
+						<p class="fragment fade-up">during times of pressure it is easy to let yourself being misled to <b>knowingly misunderstand information</b>.</p>
+						<p class="fragment fade-up">misunderstand information due to means of <b>comfort</b>.</p>
+						<p class="fragment fade-up"><b>Ambiguities</b> are likely to be adjusted to ones pleasure.</p>
+						<p class="fragment fade-up">Fear of misunderstanding leads to <b>withholding</b>.</p>
+						<p class="fragment fade-up">Hidden agendas and politics <b>deny transparency</b>.</p>
+					</section>
+				</section>
+				
+				<section data-background="#FBC02D">
+					<h2>identity</h2>
+					<section>
+						<h3>description</h3>
+						<p class="fragment fade-up">identity is the foundation of any project.</p>
+						<p class="fragment fade-up">objective aspects foster identity as much as <b>emotional</b> ones.</p>
+						<p class="fragment fade-up">identity <b>cannot be forced</b> but facilitated.</p>
+						<p class="fragment fade-up">is one of the most important requirements for <b>motivation and performance</b>.</p>
+					</section>
+					<section>
+						<h3>practices</h3>
+						<p class="fragment fade-up">we know who we are. there is exactly one version of our identity and <b>no necissity to diversify or disguise</b>.</p>
+						<p class="fragment fade-up">the <b>feelgood</b> factor is a valid metric. we will communicate once we do not want to be part of this identity.</p>
+						<p class="fragment fade-up">we work with <b>people and inviduals</b>, not with ressources. people provide ressources but are recognized as individuals.</p>
+					</section>
+					<section>
+						<h3>pitfalls</h3>
+						<p class="fragment fade-up">it is easy to <b>enforce behavioural patterns</b>. this will not lead to identity but dissafection and abandonment.</p>
+						<p class="fragment fade-up">identity is the sum of all participants. hereby it is easy to <b>damage the identity</b> of single participants towards a project by negative influences.</p>
+					</section>
+				</section>
+				
+				<section data-background="#F57C00">
+					<h2>awareness & knowledge</h2>
+					<section>
+						<h3>description</h3>
+						<p class="fragment fade-up">knowledge about our daily work and the existence of roles and business processes are mandatory for working processes.</p>	
+						<p class="fragment fade-up">knowledge about our business domains and processes needs to be educated continuously.</p>	
+						<p class="fragment fade-up">we are aware of our actions and their impacts.</p>	
+					</section>
+					<section>
+						<h3>practices</h3>
+						<p class="fragment fade-up">we do not know everything and do not hesitate <b>asking</b> or <b>educate</b> ourselfs.</p>	
+						<p class="fragment fade-up">we do not <b>commit</b> feeling not being informed well enough.</p>	
+						<p class="fragment fade-up">we use tools to <b>gain knowledge</b> about what we do.</p>	
+						<p class="fragment fade-up">we know when we are done, because we did define it.</p>	
+						<p class="fragment fade-up">we know that fiddling with processes has <b>impacts</b>.</p>	
+						<p class="fragment fade-up">we gain, document, share and evaluate knowledge.</p>	
+					</section>
+					<section>
+						<h3>pitfalls</h3>
+						<p class="fragment fade-up">the moment something is not clear, there will be <b>mistakes</b>.</p>	
+						<p class="fragment fade-up">knowledge hidden behind <b>obstacles</b> will not be used.</p>	
+						<p class="fragment fade-up">don't kill the messenger.</p>	
+						<p class="fragment fade-up">knowledge should be <b>documented</b>.</p>	
+						<p class="fragment fade-up">it is easy to fall behind on <b>knowledge and education</b>.</p>	
+						<p class="fragment fade-up">we can never estimate all impacts of our actions.</p>	
+						<p class="fragment fade-up">there is no <b>entitlement on completeness</b>. it is easy to be satisfied with too less.</p>	
+					</section>
+				</section>
+				
+				<section data-background="#FFE0B2">
+					<h2>communication</h2>
+					<section>
+						<h3>description</h3>
+						<p class="fragment fade-up">communication happens over <b>formal</b> and <b>informal</b> channels.</p>	
+						<p class="fragment fade-up">a reasonable way of communication assumes that <b>receivers</b> and <b>channels</b> are chosen correctly.</p>	
+						<p class="fragment fade-up">communication can be <b>synchronous</b> and <b>asynchronous</b> and has to deal with dependencies on time and content.</p>	
+						<p class="fragment fade-up">it is a keyfactor for successful <b>teamwork</b>.</p>	
+					</section>
+					<section>
+						<h3>practices</h3>
+						<p class="fragment fade-up">standups help to informally offer and get help.</p>	
+						<p class="fragment fade-up">status meetings are means of reporting.</p>	
+						<p class="fragment fade-up">the less intermediates the less blurry the information gets.</p>	
+						<p class="fragment fade-up">since we do not lie, we can rely on what one says.</p>	
+						<p class="fragment fade-up">we do not delay. communication can be categorized, there is importance.</p>	
+					</section>
+					<section>
+						<h3>pitfalls</h3>
+						<p class="fragment fade-up"><b>chinese whispers</b> can have massive impacts.</p>	
+						<p class="fragment fade-up">"that is known anyway" is an irrational assumption.</p>	
+						<p class="fragment fade-up">there are no <b>stupid questions</b>.</p>	
+						<p class="fragment fade-up">chosing the wrong medium or recipients.</p>	
+						<p class="fragment fade-up">it is not enough to communicate for its own purpose. those who communicate are responsible for <b>validation</b> of contents and the choice of direct recipients.</p>	
+					</section>
+				</section>
+			
+				<section data-background="#D7CCC8">
+					<h2>behaviour</h2>
+					<section>
+						<h3>description</h3>
+						<p class="fragment fade-up">behaviour describes the way we <b>act</b> and <b>react</b>.</p>	
+						<p class="fragment fade-up">by acting we influence our <b>environment</b> directly.</p>	
+					</section>
+					<section>
+						<h3>practices</h3>
+						<p class="fragment fade-up">your mouth is writing checks your ass can't cash.</p>	
+						<p class="fragment fade-up">we are not prone to error and aim to <b>improve constantly</b>.</p>	
+						<p class="fragment fade-up">we do not <b>pretend</b> half arsed jobs to be complete.</p>	
+						<p class="fragment fade-up">we estimate realistic scopes.</p>	
+						<p class="fragment fade-up">partners are treated the same kind way customers are.</p>	
+						<p class="fragment fade-up">our shipments are products <b>not prototypes</b>.</p>	
+						<p class="fragment fade-up">we use <b>industry standards</b> and <b>best practices</b>.</p>	
+					</section>
+					<section>
+						<h3>pitfalls</h3>
+						<p class="fragment fade-up">reinventing the wheel.</p>	
+						<p class="fragment fade-up">forgetting about our partners and vendors.</p>	
+						<p class="fragment fade-up">a culture of blame impedes honesty when it comes to errors and mistakes.</p>	
+						<p class="fragment fade-up">fear of pressure leads to false estimates.</p>	
+					</section>
+				</section>
+				<section data-background="#D32F2F">
+					<h2>the agile manifesto</h2>
+					<section>
+						<ul>
+							<li class="fragment fade-up"><b>individuals and interactions</b> <i>over processes and tools</i>
+								<p class="fragment fade-up"><i>and we have mandatory processes and tools to control how those individuals (we prefer the term ‘resources’) interact</i></p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<ul>
+							<li class="fragment fade-up"><b>working software</b> <i>over comprehensive documentation</i>
+								<p class="fragment fade-up"><i>as long as that software is comprehensively documented</i></p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<ul>
+							<li class="fragment fade-up"><b>customer collaboration</b> <i>over contract negotiation</i>
+								<p class="fragment fade-up"><i>within the boundaries of strict contracts, of course, and subject to rigorous change control</i></p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<ul>
+							<li class="fragment fade-up"><b>responding to change</b> <i>over following a plan</i>
+								<p class="fragment fade-up"><i>provided a detailed plan is in place to respond to the change, and it is followed precisely</i></p>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<ul class="fragment fade-up">
+							<li><b>individuals and interactions</b> <i>over processes and tools</i></li>
+							<li><b>working software</b> <i>over comprehensive documentation</i></li>
+							<li><b>customer collaboration</b> <i>over contract negotiation</i></li>
+							<li><b>responding to change</b> <i>over following a plan</i></li>
+						</ul>
+						<p class="fragment fade-up">That is, while the items on the left sound nice in theory, we’re an enterprise company, and there’s no way we’re letting go of the items on the right.</p>
+					</section>
+				</section>
+			
+				<section data-background="#448AFF">
+					<h2>scope</h2>
+					<section>
+						<h3>environment</h3>
+						<table>
+							<tr>
+								<td><b>agile</b></td>
+								<td>turbulent, high change & project focused</td>
+							</tr>
+							<tr>
+								<td><b>plan-driven</b></td>
+								<td>stable, low-change & organization focused</td>
+							</tr>
+						</table>
+					</section>
+					<section>
+						<h3>customer relations</h3>
+						<table>
+							<tr>
+								<td><b>agile</b></td>
+								<td>focused on prioritized increments, dedicated on-site customers</td>
+							</tr>
+							<tr>
+								<td><b>plan-driven</b></td>
+								<td>as-needed customer interactions, focused on contract provisions</td>
+							</tr>
+						</table>
+					</section>
+					<section>
+						<h3>planning and control</h3>
+						<table>
+							<tr>
+								<td><b>agile</b></td>
+								<td>internalized plans, qualitative control</td>
+							</tr>
+							<tr>
+								<td><b>plan-driven</b></td>
+								<td>documented plans, quantitative control</td>
+							</tr>
+						</table>
+					</section>
+					<section>
+						<h3>development</h3>
+						<table>
+							<tr>
+								<td><b>agile</b></td>
+								<td>simple design; short increments, refactoring assumed expensive</td>
+							</tr>
+							<tr>
+								<td><b>plan-driven</b></td>
+								<td>extensive design, longer increments, refactoring assumed inexpensive</td>
+							</tr>
+						</table>
+					</section>
+					<section>
+						<h3>culture</h3>
+						<table>
+							<tr>
+								<td><b>agile</b></td>
+								<td>comfort and empowerment via many degrees of freedom</td>
+							</tr>
+							<tr>
+								<td><b>plan-driven</b></td>
+								<td>comfort and empowerment via framework of policies and procedures</td>
+							</tr>
+						</table>
+					</section>
+				</section>
+				<section data-background="#0097A7">
+					<h2>what about us?</h2>
+					<ul>
+						<li class="fragment fade-up">project focused <i>(agile)</i></li>
+						<li class="fragment fade-up">organization focused <i>(plan)</i></li>
+						<li class="fragment fade-up">high change <i>(agile)</i></li>
+						<li class="fragment fade-up">turbulent <i>(agile)</i></li>
+						<li class="fragment fade-up">as-needed customer interactions <i>(plan)</i></li>
+						<li class="fragment fade-up">documented plans <i>(plan)</i></li>
+						<li class="fragment fade-up">quantitative control <i>(plan)</i></li>
+						<li class="fragment fade-up">extensive design <i>(plan)</i></li>
+						<li class="fragment fade-up">longer increments <i>(plan)</i></li>
+						<li class="fragment fade-up">refactoring assumed expensive <i>(agile)</i></li>
+					</ul>
+				</section>
+			</div>
+		</div>
