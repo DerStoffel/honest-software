@@ -221,3 +221,8 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 
 ####the agile manifesto
 
++++
+
+__individuals and interactions__ _over processes and tools_
+_and we have mandatory processes and tools to control how those individuals (we prefer the term resources) interact_
+
