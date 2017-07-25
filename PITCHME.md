@@ -256,6 +256,7 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####environment
 
+| method        |  |
 | ------------- | -------------- |
 | __agile__     | turbulent, high change & project focused |
 | __plan-driven__     | stable, low-change & organization focused |
@@ -264,6 +265,7 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####customer relations
 
+| method        |  |
 | ------------- | -------------- |
 | __agile__     | focused on prioritized increments, dedicated on-site customers |
 | __plan-driven__     | as-needed customer interactions, focused on contract provisions |
@@ -272,6 +274,7 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####planning and control
 
+| method        |  |
 | ------------- | -------------- |
 | __agile__     | internalized plans, qualitative control |
 | __plan-driven__     | documented plans, quantitative control |
@@ -280,6 +283,7 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####development
 
+| method        |  |
 | ------------- | -------------- |
 | __agile__     | simple design; short increments, refactoring assumed expensive |
 | __plan-driven__     | extensive design, longer increments, refactoring assumed inexpensive |
@@ -288,6 +292,7 @@ That is, while the items on the left sound nice in theory, we're an enterprise c
 
 ####culture
 
+| method        |  |
 | ------------- | -------------- |
 | __agile__     | comfort and empowerment via many degrees of freedom |
 | __plan-driven__     | comfort and empowerment via framework of policies and procedures |
