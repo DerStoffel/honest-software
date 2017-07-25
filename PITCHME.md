@@ -1,5 +1,10 @@
-<div class="reveal">
-			<div class="slides">
+#### Honest Software
+##### where did we go wrong
+
+---
+
+
+				
 				<section>
 					<h1>Honest Software</h1>
 					<p>where did we go wrong?</p>
@@ -311,5 +316,3 @@
 						<li class="fragment fade-up">refactoring assumed expensive <i>(agile)</i></li>
 					</ul>
 				</section>
-			</div>
-		</div>
