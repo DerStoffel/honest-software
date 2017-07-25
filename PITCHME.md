@@ -77,7 +77,7 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * __validation__ of information and its interpretation.
 * insist on __completeness__.
 * define __together__ what is meant by a piece of information and what is not.
-* __do not keep information__. Hidden agendas do not serve transparency.
+* __do not withhold information__. Hidden agendas do not serve transparency.
 +++
 
 ####pitfalls
@@ -105,15 +105,15 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 
 ####practices
 
-* we know who we are. there is exactly one version of our identity and __no necissity to diversify or disguise__.
+* we know who we are. there is exactly one version of our identity and __no necessity to diversify or disguise__.
 * the __feelgood__ factor is a valid metric. we will communicate once we do not want to be part of this identity.
-* we work with __people and inviduals__, not with ressources. people provide ressources but are recognized as individuals.
+* we work with __people and inviduals__, not with resources. people provide resources but are recognized as individuals.
 
 +++
 	
 ####pitfalls
 
-* it is easy to __enforce behavioural patterns__. this will not lead to identity but dissafection and abandonment.
+* it is easy to __enforce behavioural patterns__. this will not lead to identity but disaffection and abandonment.
 * identity is the sum of all participants. hereby it is easy to __damage the identity__ of single participants towards a project by negative influences.
 
 ---
@@ -162,13 +162,13 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * communication happens over __formal__ and __informal__ channels.	
 * a reasonable way of communication assumes that __receivers__ and __channels__ are chosen correctly.	
 * communication can be __synchronous__ and __asynchronous__ and has to deal with dependencies on time and content.	
-* it is a keyfactor for successful __teamwork__.	
+* it is a key factor for successful __teamwork__.	
 
 +++
 
 ####practices
 
-* standups help to informally offer and get help.	
+* stand ups help to informally offer and get help.	
 * status meetings are means of reporting.	
 * the less intermediates the less blurry the information gets.	
 * since we do not lie, we can rely on what one says.	
@@ -181,7 +181,7 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 * __chinese whispers__ can have massive impacts.	
 * "that is known anyway" is an irrational assumption.	
 * there are no __stupid questions__.	
-* chosing the wrong medium or recipients.	
+* choosing the wrong medium or recipients.	
 * it is not enough to communicate for its own purpose. those who communicate are responsible for __validation__ of contents and the choice of direct recipients.	
 
 ---
