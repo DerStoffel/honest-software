@@ -47,11 +47,11 @@ This guide serves all members of a project. The way from feature wish to accepte
 						
 We aim on identifying and describing falsyfying factors as well as calling them to awareness.
 
-We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ and an __open set of values__.
+We feel that __honesty__ means __transparency__, __responsibility__, __truth__ and an __open set of values__.
 
 +++
 
-* information reception
+* information perception
 * identity
 * awareness & knowledge
 * communication
@@ -59,16 +59,16 @@ We feel that __honesty__ means __transparency__, __responsibiility__, __truth__ 
 
 ---
 
-####information reception
+####information perception
 
 +++
 
 ####description
 
-* reception of information has a start and end point.
+* perception of information has a start and end point.
 * the end is defined by an __agreement__ on one common truth by all stakeholders.
 * __implicit and explicit__ contents are equally important.
-* __interpretation__ is part of the reception of information.
+* __interpretation__ is part of the perception of information.
 * interpretation will be agreed on by all stakeholders to __not falsify its spirit__.
 +++
 
