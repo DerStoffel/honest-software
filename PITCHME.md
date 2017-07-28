@@ -66,7 +66,7 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 ####Beschreibung
 
 * Informationsempfang hat einen Start und einen Endpunkt.
-* Der Endpunkt ist durch eine __Einigung_ über eine gemeinsame Wahrheit aller Stakeholder definiert.
+* Der Endpunkt ist durch eine __Einigung__ über eine gemeinsame Wahrheit aller Stakeholder definiert.
 * __Implizite und explizite__ Inhalte sind gleichermaßen wichtig.
 * __Interpretation__ ist Teil der Wahrnehmung von Information.
 * interpretation will be agreed on by all stakeholders to __not falsify its spirit__.
@@ -76,7 +76,7 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 ####Praktiken
 
 * __Validierung__ von Information und ihrer Interpretation.
-* Auf __Vollständigkeit__ bestehen und klarer Abgrenzung.
+* Auf __Vollständigkeit__ und __klare Abgrenzung__ bestehen.
 * __Gemeinsam__ definieren was durch eine Information gemeint ist und was __nicht__.
 * __Keine Information vorenthalten__. Hintergedanken (hidden agendas) dienen nicht der Transparenz.
 +++
