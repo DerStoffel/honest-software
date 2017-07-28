@@ -126,32 +126,32 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 
 ####Beschreibung
 
-* knowledge about our daily work and the existence of roles and business processes are mandatory for working processes.	
-* knowledge about our business domains and processes needs to be educated continuously.	
-* we are aware of our actions and their impacts.	
+* Wissen über unsere tägliche Arbeit und das Vorhandensein von Rollen und Geschäftsprozessen sind Voraussetzung für funktionierende Prozesse.
+* Wissen über unsere Geschäftsdomänen und -Prozesse muss kontinuierlich geschult und weiterentwickelt werden.
+* Wir sind uns unserer Taten und deren Auswirkungen bewusst.
 
 +++
 						
 ####Praktiken
 
-* we do not know everything and do not hesitate __asking__ or __educate__ ourselfs.	
-* we do not __commit__ while feeling not being informed well enough.	
-* we use tools to __gain knowledge__ about what we do.	
-* we know when we are done, because we did define it.	
-* we know that fiddling with processes has __impacts__.	
-* we gain, document, share and evaluate knowledge.	
+* Wir wissen nicht alles und zögern nicht __nachzufragen__ oder uns __weiterzubilden__.
+* Wir gehen kein __Committment__ ein, solange wir uns nicht ausreichend gut informiert fühlen.
+* Wir nutzen Werkzeuge um __Wissen__ über das was wir zun zu __erlangen__.
+* Wir wissen wann wir etwas erledigt haben, weil wir es definiert haben.	
+* Wir wissen, dass Prozessmanipulationen __Auswirkungen__ haben.
+* Wir erlangen, dokumentieren, teilen und evaluieren Wissen regelmäßig.
 
 +++
 						
 ####Fallstricke
 
-* the moment something is not clear, there will be __mistakes__.	
-* knowledge hidden behind __obstacles__ will not be used.	
-* don't kill the messenger.	
-* knowledge should be __documented__.	
-* it is easy to fall behind on __knowledge and education__.	
-* we can never estimate all impacts of our actions.	
-* there is no __entitlement on completeness__. it is easy to be satisfied with too little.	
+* Sobald etwas unklar ist, wird es zu __Fehlern__ kommen.
+* Wissen welches nicht leicht zugänglich ist, wird nicht genutzt werden.
+* Töte nicht den Überbringer einer Nachricht.
+* Wissen sollte __dokumentiert__ werden.
+* Es ist sehr leicht den Anschluss an __Wissen und Weiterbildung__ zu verlieren.
+* Wir können nie die vollen Auswirkungen unserer Taten vorherbestimmen.
+* Es gibt keinen __Anspruch auf Vollständigkeit__. Es ist allerdings leicht sich mit zu wenig zufrieden zu geben.
 
 ---
 
