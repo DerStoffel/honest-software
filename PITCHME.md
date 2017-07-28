@@ -107,16 +107,16 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 
 ####Praktiken
 
-* we know who we are. there is exactly one version of our identity and __no necessity to diversify or disguise__.
-* the __feelgood__ factor is a valid metric. we will communicate once we do not want to be part of this identity.
-* we work with __people and inviduals__, not with resources. people provide resources but are recognized as individuals.
+* Wir wissen wer wir sind. Es gibt exakt eine Ausprägung unserer Identität und __keinerlei Grund zu variieren oder verstecken__.
+* Der __Feelgood-Faktor__ stellt eine valide Metrik dar. Sollten wir nicht Teil dieser Identität sein wollen, kommunizieren wir das klar.
+* Wir arbeiten mit __Menschen und Individuen__, nicht mit Ressourcen. Menschen stellen Ressourcen zur Verfügung aber werden als Individuum wahrgenommen.
 
 +++
 	
 ####Fallstricke
 
-* it is easy to __enforce behavioural patterns__. this will not lead to identity but disaffection and abandonment.
-* identity is the sum of all participants. hereby it is easy to __damage the identity__ of single participants towards a project by negative influences.
+* Es ist einfach __Verhaltensmuster zu erzwingen__. Allerdings wirkt das nicht identitätsstiftend, sondern führt zu Ablehnung und Aufgabe der Identität.
+* Identität ist die Summe aller Teilnehmer. Hierbei ist es leider sehr einfach die Identität einer einzelnen Person hinsichtlich eines Projekts durch negative Einflüsse zu beschädigen.
 
 ---
 
