@@ -194,29 +194,30 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 
 ####Beschreibung
 
-* behaviour describes the way we __act__ and __react__.	
-* by acting we influence our __environment__ directly.	
+* Verhalten beschreibt wie wir __agieren__ und __reagieren__.	
+* Wir beeinflussen unsere Umwelt durch unsere Taten unmittelbar.	
 
 +++	
 	
 ####Praktiken
+	
+* Versprich nicht was Du nicht halten kannst.
+* Wir sind nicht fehlerfrei und versuchen daher uns __stetig zu verbessern__.
+* Wir geben keine unfertige Arbeit als erledigt aus.
+* Wir schätzen realistischen Umfang.
+* Unsere Partner werden genauso __freundlich__ behandelt wie unsere Kunden.
+* Wir liefern fertige Resultate, __keine Prototypen__.
+* Wir bedienen uns __Industriestandards__ und __Best Practices__.
 
-* your mouth is writing checks your ass can't cash.	
-* we are not prone to error and aim to __improve constantly__.	
-* we do not __pretend__ half arsed jobs to be complete.	
-* we estimate realistic scopes.	
-* partners are treated as kindly as customers.	
-* our shipments are products __not prototypes__.	
-* we use __industry standards__ and __best practices__.	
 
 +++
 	
 ####Fallstricke
 
-* reinventing the wheel.	
-* forgetting about our partners and vendors.	
-* a culture of blame impedes honesty when it comes to errors and mistakes.	
-* fear of pressure leads to false estimates.	
+* Das Rad neu erfinden.
+* Partner und Zulieferer als selbstverständlich hinnehmen.
+* Eine Kultur der Schuldzuweisung verhindert Ehrlichkeit wenn es zu Fehlern und Problemen kommt.
+* Die Angst vor Druck und Ermahnung führt zu unrealistischen Schätzungen.	
 
 ---
 
