@@ -98,10 +98,10 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 
 ####Beschreibung
 
-* identity is the foundation of any project.
-* objective aspects foster identity as much as __emotional__ ones.
-* identity __cannot be forced__ but facilitated.
-* is one of the most important requirements for __motivation and performance__.
+* Identität bildet das Fundament eines jeden Projekts.
+* Objektive und __emotionale__ Aspekte fördern Identität gleichermaßen.
+* Identität kann __nicht erzwungen__, aber gefördert werden.
+* Identität ist eine der wichtigsten Grundvoraussetzungen für __Motivation und Leistungsfähigkeit__.
 
 +++
 
