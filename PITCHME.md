@@ -1,100 +1,102 @@
 ### Honest IT
-where did we go wrong
+Wie konnte das schiefgehen?
 
 ---
 
-#### the road so far
+#### Was bisher geschah
 
 +++
 
-####traditional ways
+####Traditionelle Wege
 
-* process orientation
-* clear tasking
-* step by step
-* compartmentalization
-* foreclosure
+* Prozessorientierung
+* Klare Aufgabenverteilung
+* Schritt für Schritt
+* Schubladendenken
+* Abschottung
 
 +++
 
-####traditional results
+####Resultate traditioneller Wege
 
-* not met requirements
-* insufficient resources
-* not enough time
+* Zielverfehlung der Anforderungen
+* unzureichende Ressourcen
+* zu wenig Zeit
 
 ---
 
-####the agile manifesto
+####Das Agile Manifest
 
 +++
 
-* __individuals and interactions__ _over processes and tools_
-* __working software__ _over comprehensive documentation_
-* __customer collaboration__ _over contract negotiation_
-* __responding to change__ _over following a plan_
+* __Individuen und Interaktionen__ _wiegen mehr als Prozesse und Tools_
+* __Funktionierende Software__ _wiegt mehr als umfassende Dokumentation_
+* __Zusammenarbeit mit Kunden__ _wiegt mehr als ausführliche Vertragsverhandlungen_
+* __Reagieren auf Veränderungen__ _wiegt mehr als einem Plan zu folgen_
 
-That is, while there is value in the items on the right, we value the items on the left more.
+Obwohl auch die Dinge auf der rechten Seite ihren Wert besitzen, schätzen wir den derer auf der linken Seite höher ein.
 
 ---
 
-####honest software
+####Honest IT
 
 +++
-A guide for honest ways in handling IT projects.
+Ein Leitfaden für ehrliche Umgang mit IT Projekten.
 
-This guide serves all members of a project. The way from feature wish to accepted and shipped product increments is full of pitfalls.
+Dieser Leitfaden richtet sich an alle Mitglieder eines Projekts. Der gesamte Weg von Vision und Wunsch über Anforderung bis hin zu akzeptierten und ausgelieferten Produktinkrementen ist voller Fallstricke.
 						
-We aim on identifying and describing falsyfying factors as well as calling them to awareness.
+Wir zielen darauf ab verfälschende Faktoren zu indentifizieren und ins Bewusstsein zu rufen.
 
-We feel that __honesty__ means __transparency__, __responsibility__, __truth__ and an __open set of values__.
+Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, __Wahrheit__ und das Vorhandensein eines __offenen Wertesystems__ bedeutet.
 
 +++
 
-* information perception
-* identity
-* awareness & knowledge
-* communication
-* behaviour
+* Wahrnehmung von Information
+* Identität
+* Bewusstsein & Wissen
+* Kommunikation
+* Verhalten
 
 ---
 
-####information perception
+####Wahrnehmung von Information
 
 +++
 
-####description
+####Beschreibung
 
-* perception of information has a start and end point.
-* the end is defined by an __agreement__ on one common truth by all stakeholders.
-* __implicit and explicit__ contents are equally important.
-* __interpretation__ is part of the perception of information.
+* Informationsempfang hat einen Start und einen Endpunkt.
+* Der Endpunkt ist durch eine __Einigung_ über eine gemeinsame Wahrheit aller Stakeholder definiert.
+* __Implizite und explizite__ Inhalte sind gleichermaßen wichtig.
+* __Interpretation__ ist Teil der Wahrnehmung von Information.
 * interpretation will be agreed on by all stakeholders to __not falsify its spirit__.
+* Auch der Interpretation wird von allen Stakeholdern zugestimmt um den __Geist der Information nicht zu verfälschen__.
 +++
 
-####practices
+####Praktiken
 
-* __validation__ of information and its interpretation.
-* insist on __completeness__.
-* define __together__ what is meant by a piece of information and what is not.
-* __do not withhold information__. Hidden agendas do not serve transparency.
+* __Validierung__ von Information und ihrer Interpretation.
+* Auf __Vollständigkeit__ bestehen und klarer Abgrenzung.
+* __Gemeinsam__ definieren was durch eine Information gemeint ist und was __nicht__.
+* __Keine Information vorenthalten__. Hintergedanken (hidden agendas) dienen nicht der Transparenz.
 +++
 
-####pitfalls
+####Fallstricke
 
-* during times of pressure it is easy to let yourself being misled to __knowingly misunderstand information__.
-* misunderstand information due to means of __comfort__.
-* __Ambiguities__ are likely to be adjusted to ones pleasure.
+* In Drucksituationen ist es einfach sich dazu verleiten zu lassen __Information bewusst falsch zu verstehen__.
+* Aus __Bequemlichkeit__ Information falsch verstehen. 
+* __Mehrdeutigkeiten__ werden sehr wahrscheinlich zum eigenen Wohlgefallen gedeutet.
 * Fear of misunderstanding leads to __withholding__.
-* Hidden agendas and politics __deny transparency__.
+* Angst etwas nicht zu verstehen oder verstanden zu haben führt zu __Vorenthaltung__.
+* Hintergedanken und politische Intentionen __verhindern Transparenz__.
 
 ---
 
-####identity
+####Identität
 
 +++
 
-####description
+####Beschreibung
 
 * identity is the foundation of any project.
 * objective aspects foster identity as much as __emotional__ ones.
@@ -103,7 +105,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 
-####practices
+####Praktiken
 
 * we know who we are. there is exactly one version of our identity and __no necessity to diversify or disguise__.
 * the __feelgood__ factor is a valid metric. we will communicate once we do not want to be part of this identity.
@@ -111,18 +113,18 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 	
-####pitfalls
+####Fallstricke
 
 * it is easy to __enforce behavioural patterns__. this will not lead to identity but disaffection and abandonment.
 * identity is the sum of all participants. hereby it is easy to __damage the identity__ of single participants towards a project by negative influences.
 
 ---
 
-####awareness & knowledge
+####Bewusstsein & Wissen
 
 +++
 
-####description
+####Beschreibung
 
 * knowledge about our daily work and the existence of roles and business processes are mandatory for working processes.	
 * knowledge about our business domains and processes needs to be educated continuously.	
@@ -130,7 +132,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 						
-####practices
+####Praktiken
 
 * we do not know everything and do not hesitate __asking__ or __educate__ ourselfs.	
 * we do not __commit__ while feeling not being informed well enough.	
@@ -141,7 +143,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 						
-####pitfalls
+####Fallstricke
 
 * the moment something is not clear, there will be __mistakes__.	
 * knowledge hidden behind __obstacles__ will not be used.	
@@ -153,11 +155,11 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 ---
 
-####communication
+####Kommunikation
 
 +++
 
-####description
+####Beschreibung
 
 * communication happens over __formal__ and __informal__ channels.	
 * a reasonable way of communication assumes that __receivers__ and __channels__ are chosen correctly.	
@@ -166,7 +168,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 
-####practices
+####Praktiken
 
 * stand ups help to informally offer and get help.	
 * status meetings are means of reporting.	
@@ -176,7 +178,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 
-####pitfalls
+####Fallstricke
 
 * __chinese whispers__ can have massive impacts.	
 * "that is known anyway" is an irrational assumption.	
@@ -186,18 +188,18 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 ---
 
-####behaviour
+####Verhalten
 
 +++
 
-####description
+####Beschreibung
 
 * behaviour describes the way we __act__ and __react__.	
 * by acting we influence our __environment__ directly.	
 
 +++	
 	
-####practices
+####Praktiken
 
 * your mouth is writing checks your ass can't cash.	
 * we are not prone to error and aim to __improve constantly__.	
@@ -209,7 +211,7 @@ We feel that __honesty__ means __transparency__, __responsibility__, __truth__ a
 
 +++
 	
-####pitfalls
+####Fallstricke
 
 * reinventing the wheel.	
 * forgetting about our partners and vendors.	
