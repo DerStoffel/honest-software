@@ -161,30 +161,30 @@ Wir sind der Meinung, dass __Ehrlichkeit__ __Transparenz__, __Verantwortung__, _
 
 ####Beschreibung
 
-* communication happens over __formal__ and __informal__ channels.	
-* a reasonable way of communication assumes that __receivers__ and __channels__ are chosen correctly.	
-* communication can be __synchronous__ and __asynchronous__ and has to deal with dependencies on time and content.	
-* it is a key factor for successful __teamwork__.	
+* Kommunikation geht über __formale__ und __informale__ Kanäle.	
+* Ein verantwortungsbewusster Umgang mit Kommunikation geht davon aus, dass __Empfänger__ und __Kanäle__ richtig gewählt sind.
+* Kommunikation kann __synchron__ und __asynchron__ erfolgen und muss dabei mit inhaltlichen wie zeitlichen Abhängigkeiten umgehen.
+* Sie ist ein Schlüsselfaktor für erfolgreiche __Zusammenarbeit__.	
 
 +++
 
 ####Praktiken
 
-* stand ups help to informally offer and get help.	
-* status meetings are means of reporting.	
-* the less intermediates the less blurry the information gets.	
-* since we do not lie, we can rely on what one says.	
-* we do not delay. communication can be categorized, there is importance.	
+* Stand Ups helfen um informell Hilfe anzubieten und zu bekommen. 
+* Status-Meetings dienen ausschließlich dem Reporting.
+* Umso weniger Stationen auf dem Kommunikationsweg passiert werden müssen umso weniger unscharf wird die Information.
+* Wir lügen nicht und können uns daher auf die Aussagen unserer Kollegen und Teammitglieder bedingungslos verlassen.
+* Wir verzögern nicht. Kommunikation kann kategorisiert werden, Wichtigkeit spielt dabei eine Rolle.
 
 +++
 
 ####Fallstricke
 
-* __chinese whispers__ can have massive impacts.	
-* "that is known anyway" is an irrational assumption.	
-* there are no __stupid questions__.	
-* choosing the wrong medium or recipients.	
-* it is not enough to communicate for its own purpose. those who communicate are responsible for __validation__ of contents and the choice of direct recipients.	
+* __Flüsterpost__ kann ungeahnt große Auswirkungen haben.	
+* "Das weiß doch jeder" ist eine irrationale Ist-Annahme.	
+* Es gibt keine __dummen Fragen__.	
+* Das falche Medium oder der falsche Teilnehmerkreis sind leicht gewählt.
+* Es reicht nicht aus nur um der Kommunikation Willen zu kommunizieren. Die kommunizierenden Personen sind für die __Validierung__ ihrer Information verantwortlich, sowie für die Wahl der direkten Empfänger.	
 
 ---
 
